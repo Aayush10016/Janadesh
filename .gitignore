@@ -16,7 +16,7 @@ coverage/
 # Environment
 .env
 .env.*
-!.env.example
+
 
 # OS/IDE
 .DS_Store
